@@ -1,0 +1,20 @@
+p{
+  border:2px solid blue;
+  font-style:italic;
+}
+p.title{
+  border:1px solid black;
+  font-style:italic;
+}
+[class=arroz]{
+  border:2px solid black;
+  font-style:italic;
+}
+[class=huevo]{
+  border:2px solid black;
+  font-style:italic;
+}
+[class=tomate]{
+  border:2px solid black;
+  font-style:italic;
+}
